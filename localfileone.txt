@@ -1,7 +1,14 @@
-<<<<<<< HEAD
-Hi From cloned Repo
-=======
+Hi from cloned Repo
+
+
+
+
+
+
+
+
 Hi from localrepo
+<<<<<<< HEAD
 >>>>>>> 63c4eb1411bbe193a63ce055ebe2692fad4b5abe
 
 
@@ -16,4 +23,6 @@ Hi from localrepo
 
 
 Hi from uae
+
+Oman chips
 
