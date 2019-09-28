@@ -7,11 +7,4 @@ Hi from localrepo
 <<<<<<< HEAD
 >>>>>>> 63c4eb1411bbe193a63ce055ebe2692fad4b5abe
 
-
-
-Hi from uae
-
-Oman chips awesome@!!!!
-
-
-Damn late iit is now.
+corre ting some changes. 
