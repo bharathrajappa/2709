@@ -1,1 +1,3 @@
 Learning is fun
+
+git is awesome
